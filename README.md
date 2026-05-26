@@ -26,6 +26,3 @@
   <img src="https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/oliveira404/oliveira404/snake-output/snake.svg" alt="Snake animation" />
-
-###
