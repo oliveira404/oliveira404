@@ -20,11 +20,11 @@
 
 <div align="center">
 
-<a href="https://instagram.com/SEUINSTAGRAM">
+<a href="https://instagram.com/guioliveiragm">
   <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEULINKEDIN">
+<a href="https://linkedin.com/in/guilherme-henrique-28713a3a1">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
