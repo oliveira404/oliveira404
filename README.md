@@ -1,28 +1,55 @@
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+<div align="center">
 
-<p align="center">
-  💻 Computer Science Student <br>
-  🚀 Passionate about technology and programming <br>
-  📚 Always learning new things <br>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Gui+Oliveira;Bem-vindo+ao+meu+GitHub;Computer+Science+Student;Construindo+projetos+e+aprendendo+todos+os+dias"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Glad+to+have+you+here!;Feel+free+to+explore+my+projects!;Always+learning+new+technologies🚀">
-</p>
+</div>
 
-<p align="center">
-⭐ Explore my repositories and follow my journey!
-</p>
+<br>
 
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=Overview&message=oliveira404&color=red&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-henrique-28713a3a1/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-FF0000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+🎓 Ciência da Computação  
+💻 Desenvolvedor em aprendizado constante  
+🚀 Interesse em tecnologia, software e inovação  
 
-  <a href="https://www.instagram.com/guioliveiragm/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+</div>
 
+<br>
+
+<div align="center">
+
+<a href="https://instagram.com/SEUINSTAGRAM" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,vscode"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> “Sempre aprendendo, sempre evoluindo.”
+
+</div>
