@@ -34,16 +34,6 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=oliveira404&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira404&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,vscode"/>
 
 </div>
